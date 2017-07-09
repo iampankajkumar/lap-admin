@@ -26,7 +26,12 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
+<style type="text/css">
+body
+{
+    background: url(banner.jpg) no-repeat fixed 100% 100%;
+}
+</style>
 </head>
 
 <body>
@@ -233,7 +238,7 @@
             </div>
         </div>
         <hr/>
-        <h3 style="text-align:center;">All Uploaded Deals</h2><hr/>
+        <h3 style="text-align:center;">All Uploaded Deals</h3><hr/>
         <div class="panel panel-primary" >
                     <div class="panel-heading">
                         <h2 class="panel-title">Manage Products !!</h2>
